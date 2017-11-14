@@ -1,0 +1,8 @@
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\bin\Debug\PiCounter.exe.config
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\bin\Debug\PiCounter.exe
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\bin\Debug\PiCounter.pdb
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\obj\Debug\PiCounter.PiDigitCounter.resources
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\obj\Debug\PiCounter.Properties.Resources.resources
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\obj\Debug\PiCounter.csproj.GenerateResource.Cache
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\obj\Debug\PiCounter.exe
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\obj\Debug\PiCounter.pdb
