@@ -16,7 +16,7 @@ PiCounter/Releases/v1.0/PiCounter_Setup.msi
 
     ![Add_to_Counter.png](./docs/Add_to_Counter.png)
 
-2. Subtract to counter by clicking the "+" button. Other valid keyboard keys are: "Left", "-"
+2. Subtract to counter by clicking the "-" button. Other valid keyboard keys are: "Left", "-"
 
     ![Subtract_to_Counter](./docs/Subtract_to_Counter.png)
 
