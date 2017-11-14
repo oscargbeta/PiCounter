@@ -23,5 +23,8 @@ PiCounter/Releases/v1.0/PiCounter_Setup.msi
 3. Reset counter by clicking the "reset" button.
 
     ![Reset_Counter.png](./docs/Reset_Counter.png)
+    
+# To Contribute
+The source code is a visual studio 2015 solution. It contains a main project called "PiCounter" and a second called "PiCounter_Setup" (which is only used to create the installer). To run the solution in VS, you may use the PiCounter.sln file, and then build/run the PiCounter project. Feel free to add features and improvements to the PiCounter as necessary.
 
 That's it! Enjoy!!!
