@@ -6,3 +6,11 @@ C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\o
 C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\obj\Release\PiCounter.csproj.GenerateResource.Cache
 C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\obj\Release\PiCounter.exe
 C:\Users\ogarcia\Downloads\PiCounter\PiCounter\Development\PiCounter\PiCounter\obj\Release\PiCounter.pdb
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\src\PiCounter\PiCounter\bin\Release\PiCounter.exe.config
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\src\PiCounter\PiCounter\obj\Release\PiCounter.exe
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\src\PiCounter\PiCounter\obj\Release\PiCounter.pdb
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\src\PiCounter\PiCounter\bin\Release\PiCounter.exe
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\src\PiCounter\PiCounter\bin\Release\PiCounter.pdb
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\src\PiCounter\PiCounter\obj\Release\PiCounter.PiDigitCounter.resources
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\src\PiCounter\PiCounter\obj\Release\PiCounter.Properties.Resources.resources
+C:\Users\ogarcia\Downloads\PiCounter\PiCounter\src\PiCounter\PiCounter\obj\Release\PiCounter.csproj.GenerateResource.Cache
